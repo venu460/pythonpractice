@@ -1,1 +1,2 @@
-print("practice 1")
+print("practice main")
+
